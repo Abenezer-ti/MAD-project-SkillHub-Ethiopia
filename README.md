@@ -13,11 +13,11 @@ The platform solves the problem of inconsistent work opportunities for skilled w
 
 ## 👥 Team Members & Roles
 
-Name                                                  Role 
- Haymanot Abere                      UI/UX Implementation Lead 
- Henok abebe                         Database & State Lead 
- Beminet Antehun                     Core Logic & Services Lead 
- Mikiyas  Ermiyas                    Network & API Lead 
- Abenezer Tizazu                     DevOps & Testing Lead 
+        Name                                 Role 
+ Haymanot Abere        ---->>>     UI/UX Implementation Lead 
+ Henok abebe           ---->>>     Database & State Lead 
+ Beminet Antehun       ---->>>     Core Logic & Services Lead 
+ Mikiyas  Ermiyas      ---->>>     Network & API Lead 
+ Abenezer Tizazu       ---->>>     DevOps & Testing Lead 
  
 ## 🔗 Project Links
